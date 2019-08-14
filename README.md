@@ -1,1 +1,3 @@
 Workshop se
+
+Better documentation
